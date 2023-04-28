@@ -1,0 +1,53 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0px" font-family="Futura" font-size="14px" color="#444444"/>
+      <mj-section padding="0px"/>
+      <mj-image padding="0px"/>
+    </mj-attributes>
+
+    <mj-style>
+      a {
+        color: #fff;
+        text-decoration: none;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f1f1f1">
+    <!-- Header -->
+    <mj-section padding-bottom="15px">
+      <mj-column>
+        <mj-text>
+          <p style="font-weight: bold; font-size: 20px; text-transform: capitalize; color: #FF9503">cliff odera Captures</p>
+          <p>Photographer</p>
+        </mj-text>
+        <mj-image src="https://i.ibb.co/LxjwnVJ/Photographer.jpg" alt="Photographer" width="150px" align="left" border-radius="6px"/>
+      </mj-column>
+    </mj-section>
+
+    <!-- Contacts -->
+    <mj-section background-color="#FF9503" padding-left="10px" border-radius="6px">
+      <mj-column>
+        <mj-text color="#fff">
+          <p><span style=" font-weight: bold">T - </span> 777-444-555</p>
+          <p><span style=" font-weight: bold">E - </span> odera@photolab.com</p>
+          <p><span style=" font-weight: bold">A - </span> Liberty Lane CA 10204</p>
+          <p><span style=" font-weight: bold">W - </span> <a href="#">www.photolab.com</a></p>
+        </mj-text>
+        <mj-text padding-top="15px" padding-bottom="15px">
+          <a href="#"><img src="https://i.ibb.co/6F4zRjD/facebook.png" alt="Facebook" width="20px"/></a>
+          <a href="#"><img src="https://i.ibb.co/LdMYhSp/pinterest.png" alt="Pinterest" width="20px" style="padding-left: 10px"/></a>
+          <a href="#"><img src="https://i.ibb.co/fDshHt9/instagram.png" alt="Instagram" width="20px" style="padding-left: 10px"/></a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Banner -->
+    <mj-section padding-top="15px">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/NsjnWf7/Festive-discount.png" alt="Banner" href="#" width="600px" border-radius="6px"/>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
