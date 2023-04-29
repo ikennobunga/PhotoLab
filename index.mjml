@@ -11,9 +11,6 @@
         color: #fff;
         text-decoration: none;
       }
-      .bannerImage {
-        max-width: 600px;
-      }
     </mj-style>
   </mj-head>
 
@@ -50,9 +47,10 @@
     <mj-section padding-top="15px">
       <mj-column>
          <mj-text>
-            <img src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt="" class="bannerImage"/>
+            <img src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt=""/>
          </mj-text>
       </mj-column>
+      <mj-column></mj-column>
     </mj-section>
   </mj-body>
 </mjml>
