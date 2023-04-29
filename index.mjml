@@ -11,12 +11,6 @@
         color: #fff;
         text-decoration: none;
       }
-      .banner {
-        border-radius: 10px;
-        height: 100px;
-        width: 500px;
-        background-size: cover;
-      }
     </mj-style>
   </mj-head>
 
@@ -54,7 +48,7 @@
       <mj-column>
          <mj-raw>
             <div>
-              <img src="https://i.ibb.co/j5G7mz4/Photo-Lab2.png" alt="" class="banner"/>
+              <img src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt="" class="banner"/>
             </div>
          </mj-raw>
       </mj-column>
