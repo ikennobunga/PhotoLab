@@ -46,7 +46,7 @@
     <!-- Banner -->
     <mj-section padding-top="15px">
       <mj-column>
-        <mj-image src="https://i.ibb.co/NsjnWf7/Festive-discount.png" alt="Banner" href="#" border-radius="6px"/>
+        <mj-image src="https://i.ibb.co/NsjnWf7/Festive-discount.png" alt="Banner" href="#" width="200px" border-radius="6px"/>
       </mj-column>
     </mj-section>
   </mj-body>
