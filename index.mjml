@@ -40,16 +40,17 @@
           <a href="#"><img src="https://i.ibb.co/LdMYhSp/pinterest.png" alt="Pinterest" width="20px" style="padding-left: 10px"/></a>
           <a href="#"><img src="https://i.ibb.co/fDshHt9/instagram.png" alt="Instagram" width="20px" style="padding-left: 10px"/></a>
         </mj-text>
+        <mj-image src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt=""/>
       </mj-column>
     </mj-section>
 
     <!-- Banner -->
-    <mj-section padding-top="15px">
+    <!-- <mj-section padding-top="15px">
       <mj-column>
         <mj-image src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt=""/>
       </mj-column>
       <mj-column>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
   </mj-body>
 </mjml>
