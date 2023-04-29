@@ -11,6 +11,9 @@
         color: #fff;
         text-decoration: none;
       }
+      .banner {
+        width: 40%;
+      }
     </mj-style>
   </mj-head>
 
