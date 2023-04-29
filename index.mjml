@@ -11,7 +11,11 @@
         color: #fff;
         text-decoration: none;
       }
-      
+      .banner {
+        border-radius: 10px;
+        height: 100px;
+        width: 500px;
+      }
     </mj-style>
   </mj-head>
 
@@ -47,7 +51,11 @@
     <!-- Banner -->
     <mj-section padding-top="15px">
       <mj-column>
-        <mj-image src="https://i.ibb.co/5sVzNMs/Photolab1.png" alt=""/>
+         <mj-raw>
+            <div>
+              <img src="https://i.ibb.co/5sVzNMs/Photolab1.png" alt="" class="banner"/>
+            </div>
+         </mj-raw>
       </mj-column>
     </mj-section>
   </mj-body>
