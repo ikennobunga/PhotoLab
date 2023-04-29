@@ -11,6 +11,9 @@
         color: #fff;
         text-decoration: none;
       }
+      .bannerImage {
+        width: 100%;
+      }
     </mj-style>
   </mj-head>
 
@@ -39,18 +42,17 @@
           <a href="#"><img src="https://i.ibb.co/6F4zRjD/facebook.png" alt="Facebook" width="20px"/></a>
           <a href="#"><img src="https://i.ibb.co/LdMYhSp/pinterest.png" alt="Pinterest" width="20px" style="padding-left: 10px"/></a>
           <a href="#"><img src="https://i.ibb.co/fDshHt9/instagram.png" alt="Instagram" width="20px" style="padding-left: 10px"/></a>
-          <img src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt=""/>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- Banner -->
-    <!-- <mj-section padding-top="15px">
+    <mj-section padding-top="15px">
       <mj-column>
-        <mj-image src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt=""/>
+        <mj-image src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt="" css-class="bannerImage"/>
       </mj-column>
       <mj-column>
       </mj-column>
-    </mj-section> -->
+    </mj-section>
   </mj-body>
 </mjml>
