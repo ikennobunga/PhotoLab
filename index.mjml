@@ -11,6 +11,12 @@
         color: #fff;
         text-decoration: none;
       }
+      .banner img {
+        max-width: 400px !important;
+        width: 500px;
+        background-size: cover;
+        border-radius: 10px !important;
+      }
     </mj-style>
   </mj-head>
 
@@ -46,13 +52,11 @@
     <!-- Banner -->
     <mj-section padding-top="15px">
       <mj-column>
-        <mj-table>
-          <tr>
-            <td>
-              <img src="https://i.ibb.co/NsjnWf7/Festive-discount.png" alt="Banner" href="#" border-radius="6px"/>
-            </td>
-          </tr>
-        </mj-table>
+        <mj-raw>
+          <div class="banner">
+            <img src="https://i.ibb.co/NsjnWf7/Festive-discount.png" alt="Banner" href="#" border-radius="6px"/>
+          </div>
+        </mj-raw>
       </mj-column>
     </mj-section>
   </mj-body>
