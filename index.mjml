@@ -11,12 +11,6 @@
         color: #fff;
         text-decoration: none;
       }
-      .banner {
-        width: 40%;
-      }
-      .bannerImage {
-        width: 100%;
-      }
     </mj-style>
   </mj-head>
 
@@ -52,11 +46,9 @@
     <!-- Banner -->
     <mj-section padding-top="15px">
       <mj-column>
-         <mj-raw>
-            <div class="banner">
-              <img src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt="" class="bannerImage"/>
-            </div>
-         </mj-raw>
+         <mj-text>
+            <img src="https://i.ibb.co/8xQc9gj/black-friday-email-signature-banner-1.png" alt=""/>
+         </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
